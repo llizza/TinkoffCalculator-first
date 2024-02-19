@@ -99,11 +99,11 @@
 		820AE0982B826775009DD8F6 /* TinkoffCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				820AE0A22B826778009DD8F6 /* Assets.xcassets */,
 				820AE0992B826775009DD8F6 /* AppDelegate.swift */,
 				820AE09B2B826775009DD8F6 /* SceneDelegate.swift */,
 				820AE09D2B826775009DD8F6 /* ViewController.swift */,
 				820AE09F2B826775009DD8F6 /* Main.storyboard */,
-				820AE0A22B826778009DD8F6 /* Assets.xcassets */,
 				820AE0A42B826778009DD8F6 /* LaunchScreen.storyboard */,
 				820AE0A72B826778009DD8F6 /* Info.plist */,
 			);
@@ -456,7 +456,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.Tink";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.TinkoffCalculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -485,7 +485,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "-.Tink";
+				PRODUCT_BUNDLE_IDENTIFIER = "-.TinkoffCalculator";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
